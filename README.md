@@ -1,2 +1,2 @@
 # old-website
-Repository of my old website.
+Dump of my old website.
